@@ -16,7 +16,7 @@ function SearchBar({ onSubmit }) {
   return (
     <nav className="navbar mb-2" style={{ backgroundColor: "#ffffcc" }}>
       <div className="container-fluid">
-        <a className="navbar-brand">iMAGEN</a>
+        <span className="navbar-brand">iMAGEN</span>
         <form
           className="d-flex justify-content-center"
           role="search"
