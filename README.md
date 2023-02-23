@@ -2,7 +2,7 @@
 
 iMAGEN is a React app that lets you search for images using the Unsplash API. It features a navigation bar and a search input that shows 10 images of whatever you search for. Please note that there is a limitation on the number of times you can search, which is 50 searches per hour.
 
-You can check out the live version of the app at https://imagen.netlify.app
+You can check out the live version of the app at https://imagening.netlify.app/
 
 ## Usage
 
